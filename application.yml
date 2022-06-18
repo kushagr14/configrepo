@@ -1,4 +1,8 @@
+# my:
+#     greeting: Welcome to Great Learning
+#     list:
+#         values: apple, banana, mango
 my:
-    greeting: Welcome to Great Learning
-    list:
-        values: apple, banana, mango
+ greeting: Welcome to Great Learning
+ list:
+  values: apple, banana, mango
