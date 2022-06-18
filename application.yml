@@ -3,6 +3,6 @@
 #     list:
 #         values: apple, banana, mango
 my:
- greeting: Welcome to Great Learning
+ greeting: Welcome to Springboot cloud configuration manageent
  list:
   values: apple, banana, mango
